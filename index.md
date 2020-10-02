@@ -4,7 +4,7 @@ layout: default
 
 # Yunfeng Xiong (熊云丰）
 
-I am currently working as Boya Postdoctoral Fellow at School of Mathematical Sciences, Peking Univeristy. I got my Ph.D. degree of computational mathematics in June, 2020, at Peking University, China, under the supervision of Prof. Sihong Shao. The title of my thesis is _Many-body Wigner dynamics: Branching Random Walk and Particle Annihilation_.
+I am currently working as the Boya Postdoctoral Fellow at School of Mathematical Sciences, Peking Univeristy. I got my Ph.D. degree of computational mathematics in June, 2020, at Peking University, China. My supervisor is Prof. Sihong Shao. The title of my thesis is _Many-body Wigner dynamics: Branching Random Walk and Particle Annihilation_.
 
 Please [click here](./CV_PKU_Yunfeng_Xiong.pdf) to see my curriculum vitae.
 
@@ -48,7 +48,7 @@ Under the particle formalism, the dynamics seems likes the stochastic reproducti
 Intuitively, the contribution of particles carrying opposite sign can be canceled out. This observation is pivital in suppressing the stochastic variances in long-time simulations. Such problem is closely related to the density estimation in statistical learning, which intends to postulate the underlying continuous density from the discrete point distribution. 
 
 ![wf_discrete](./assets/img/wf_sample.pdf)
-
+![wf_discrete](./assets/img/wignerfunction.pdf)
 
 Our strategy is to combine the **sequential clustering** of points (_combinatorial technique_) and **random matching** within each group (_probabilistic technique_). The sequential clustering can be performed by binary splitting of the Eucledian space and controlling the number-theoretic discrepancies. This can automatically monitor the concentration and sparsity of point distributions, and may work in high dimensional problem (numerical examples are provided up to 1080 dimension).
 
