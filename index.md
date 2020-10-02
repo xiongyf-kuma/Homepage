@@ -8,7 +8,7 @@ I am currently working at Peking Univeristy as Boya Postdoctoral Fellow. I got m
 
 Please [click here](./CV_PKU_Yunfeng_Xiong.pdf) to see my curriculum vitae.
 
-## Research interest
+# Research interest
 
 My major research interest is the mathematical theory of particle methods, as well as their applications in solving high-dimensional PDEs arsing from the quantum physics and finances.  
 
@@ -16,7 +16,11 @@ The concept of particle method is closely related to the Monte Carlo methods. Ho
 
 ![Connection](./assets/img/ch1_connection.pdf)
 
-In my 
+## Particle methods in quantum mechanics 
+
+My graduate research concentrates on the particle method of the Wigner equation, a phase-space formulation of quantum dynamics initialized by Eugene Wigner. The fundamental obstacle is the **negative sign** in the probailistic model, which might be disliked by mathematicians majored in probability theory, but seems fundamental for physicists as the **negative probability** in quantum world manifests the Heisenberg's uncertainty principle.  
+
+After fighting with the notorious negative sign problem for five years, I have tried to understand its origin and made the first attempt to solve the Wigner equation on the 12-D phase space, with some developments in both particle generation and particle annihilation. 
 
 
 ### Particle generation: Connection between stochastic process and PDEs
@@ -39,7 +43,7 @@ In my
 
 
 
-### Deterministic solvers
+### Deterministic methods 
 
 
 
