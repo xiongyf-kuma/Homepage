@@ -31,8 +31,6 @@ In my
 
 
 ![wf_continuous](./assets/img/wignerfunction.pdf)
-
-
 ![wf_discrete](./assets/img/wf_sample.pdf)
 
 
