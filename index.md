@@ -10,8 +10,9 @@ Please [click here](./CV_PKU_Yunfeng_Xiong.pdf) to see my curriculum vitae.
 
 # Research interest
 
-My major research interest is the mathematical theory of particle methods and their applications in quantum physics and finances.  
+My major research interest is the mathematical theory of particle methods and their applications in solving high-dimensional PDEs arsing in the quantum physics and finances.  
 
+The concept of particle method is closely related to the Monte Carlo methods. However, the usage of particle methods does not merely involve sampling process, but actually they are integrated applications of stochastic process, numerical mathematics, number theory, statistical learning, combinatorics, harmonic analysis and so on. 
 
 ![Connection](./assets/img/ch1_connection.pdf)
 
