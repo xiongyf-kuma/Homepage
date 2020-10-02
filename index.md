@@ -4,7 +4,7 @@ layout: default
 
 # Yunfeng Xiong (熊云丰）
 
-I am currently working at Peking Univeristy as Boya Postdoctoral Fellow. I got my Ph.D. degree of computational mathematics in June, 2020, at Peking University, China, under the supervision of Prof. Sihong Shao. The title of my thesis is _Many-body Wigner dynamics: Branching Random Walk and Particle Annihilation_.
+I am currently working as Boya Postdoctoral Fellow at School of Mathematical Sciences, Peking Univeristy. I got my Ph.D. degree of computational mathematics in June, 2020, at Peking University, China, under the supervision of Prof. Sihong Shao. The title of my thesis is _Many-body Wigner dynamics: Branching Random Walk and Particle Annihilation_.
 
 Please [click here](./CV_PKU_Yunfeng_Xiong.pdf) to see my curriculum vitae.
 
@@ -47,8 +47,6 @@ Under the particle formalism, the dynamics seems likes the stochastic reproducti
 
 Intuitively, the contribution of particles carrying opposite sign can be canceled out. This observation is pivital in suppressing the stochastic variances in long-time simulations. Such problem is closely related to the density estimation in statistical learning, which intends to postulate the underlying continuous density from the discrete point distribution. 
 
-![wf_continuous](./assets/img/wignerfunction.pdf)
-
 ![wf_discrete](./assets/img/wf_sample.pdf)
 
 
@@ -72,11 +70,16 @@ At present, I am working on a project to surmount the numerical challenges in 6-
 
 ## Ongoing project: Diffusive wave modeling 
 
+I am going to inintialize a project on diffusive wave modeling with [Prof. Xu Guo](https://www.tjsl.sdu.edu.cn/info/1331/8187.htm) at School of Civil Engineering, Shandong University. The goal of this project is to understand the mathematical theory of fractional wave equation in modeling the intermediate state of the heat diffusion and the wave propogation, to design effecient algorithms for multidimensional fractional wave equation, and to discuss related problems such as reverse-time mitigation, uncertainty qualification and parameter estimation. 
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
+
+The background is the wave attentuation phenomenon in earth science. The mathematical problems involve PDE analysis, numerical PDEs, numerical algebra, statistical learning, Bayesian interference and uncertainty qualification (and maybe more).    
+
+## Mottos
+
+- “The full meaning of life, the collective meaning of all human desires, is fundamentally a mystery beyond our grasp.” —— **Eugene Wigner**
+
+- “A basic idea behind the design of numerical schemes is that they can preserve the properties of the original problems as much as possible ... ”
+—— **Kang Feng**
 
 
