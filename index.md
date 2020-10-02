@@ -45,7 +45,7 @@ Under the particle formalism, the dynamics seems likes the stochastic reproducti
 
 ### Particle annihilation: Probability theory and combinatorics 
 
-Intuitively, the contribution of particles carrying opposite sign can be canceled out. This observation is pivital in suppressing the stochastic variances in long-time simulations. Such is closely related to the density estimation in statistical learning, which intends to postulate the underlying continuous density from the discrete point distribution. 
+Intuitively, the contribution of particles carrying opposite sign can be canceled out. This observation is pivital in suppressing the stochastic variances in long-time simulations. Such problem is closely related to the density estimation in statistical learning, which intends to postulate the underlying continuous density from the discrete point distribution. 
 
 ![wf_continuous](./assets/img/wignerfunction.pdf)
 
@@ -53,6 +53,8 @@ Intuitively, the contribution of particles carrying opposite sign can be cancele
 
 
 Our strategy is to combine the **sequential clustering** of points (_combinatorial technique_) and **random matching** within each group (_probabilistic technique_). The sequential clustering can be performed by binary splitting of the Eucledian space and controlling the number-theoretic discrepancies. This can automatically monitor the concentration and sparsity of point distributions, and may work in high dimensional problem (numerical examples are provided up to 1080 dimension).
+
+
 ![wf_ded](./assets/img/wf_ded.pdf)
 
 
@@ -60,120 +62,21 @@ Our strategy is to combine the **sequential clustering** of points (_combinatori
 
 ### Deterministic parallel solvers for high-dimensional Wigner equation 
 
-A parallel line in my research is to design determistic solvers for PDEs. The intentions are as twofold. The first is to provide a highly accurate solution to the Wigner equation. The second is to give a thorough benchmark on the particle method.
+A parallel line in my research is to design determistic solvers for the Wigner equation. The intentions are as twofold. The first is to provide a highly accurate solution to the Wigner equation. The second is to give a thorough benchmark on the particle method.
 
-In 2016, 
+In 2016, we made the first attempt to solve the Wigner equation in 4-D phase space using the semi-Lagrangian method and spectral method. After that, my collabators, Dr. Zhenzhu Chen and Prof. Sihong Shao have succeeded in simulating the complicated structure of [double-well interference](https://doi.org/10.1016/j.jcp.2019.06.047).   
 
-
+At present, I am working on a project to surmount the numerical challenges in 6-D simulations with recent developments of parallel and distributed computing. 
 
 * * *
 
 ## Ongoing project: Diffusive wave modeling 
 
 
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
 - level 1 item
   - level 2 item
   - level 2 item
     - level 3 item
     - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
