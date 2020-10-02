@@ -24,7 +24,7 @@ My graduate research concentrates on the particle method of the Wigner equation,
 
 After fighting with the notorious negative sign problem for five years, I have tried to understand its origin and made the first attempt to solve the Wigner equation on the 12-D phase space, with both developments in particle generation and annihilation. But it still has a long way to go before touching the limit of the particle method. 
 
-Currently, I am trying to extend the basic idea of the proposed particle method to solve high-dimensional PDEs in mathematical finance and to understand the omplex interactions among multiple assets. 
+Currently, I am trying to extend the basic idea of the proposed particle method to solve high-dimensional PDEs in mathematical finance and to understand the complex interactions among multiple assets. 
 
 * * *
 
