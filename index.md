@@ -4,20 +4,39 @@ layout: default
 
 # Yunfeng Xiong (熊云丰）
 
-I am currently working at Peking Univeristy as Boya Postdoctoral Fellow. I got my Ph.D. degree of computational mathematics in June, 2020, at Peking University, China, under the supervision of Prof. Sihong Shao. The title of my thesis is _Many-body Wigner dynamics: Branching random walk and Particle annihilation_.
+I am currently working at Peking Univeristy as Boya Postdoctoral Fellow. I got my Ph.D. degree of computational mathematics in June, 2020, at Peking University, China, under the supervision of Prof. Sihong Shao. The title of my thesis is _Many-body Wigner dynamics: Branching Random Walk and Particle Annihilation_.
 
 Please [click here](./CV_PKU_Yunfeng_Xiong.pdf) to see my curriculum vitae.
 
 # Research interest
 
-My major research interest is the mathematical theory of particle methods and their applications in solving high-dimensional PDEs arsing in the quantum physics and finances.  
+My major research interest is the mathematical theory of particle methods, as well as their applications in solving high-dimensional PDEs arsing from the quantum physics and finances.  
 
 The concept of particle method is closely related to the Monte Carlo methods. However, the usage of particle methods does not merely involve sampling process, but actually they are integrated applications of stochastic process, numerical mathematics, number theory, statistical learning, combinatorics, harmonic analysis and so on. 
 
 ![Connection](./assets/img/ch1_connection.pdf)
 
+In my 
 
-## Header 2
+
+## Particle generation: Connection between stochastic process and PDEs
+
+
+
+
+
+## Particle annihilation: Probability theory and combinatorics 
+
+
+
+
+## Particle annihilation: Probability theory and combinatorics 
+
+
+
+# Ongoing project: Diffusive wave modeling 
+
+
 
 > This is a blockquote following a header.
 >
