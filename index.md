@@ -8,9 +8,13 @@ I am currently working at Peking Univeristy as Boya Postdoctoral Fellow. I got m
 
 Please [click here](./CV_PKU_Yunfeng_Xiong.pdf) to see my curriculum vitae.
 
-# Header 1
+# Research interest
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+My major research interest is the mathematical theory of particle methods and their applications in quantum physics and finances.  
+
+
+![Connection](./assets/img/ch1_connection.pdf)
+
 
 ## Header 2
 
