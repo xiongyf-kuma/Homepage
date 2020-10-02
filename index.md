@@ -6,7 +6,7 @@ layout: default
 
 I am currently working at Peking Univeristy as Boya Postdoctoral Fellow. I got my Ph.D. degree of computational mathematics in June, 2020, at Peking University, China, under the supervision of Prof. Sihong Shao. The title of my thesis is _Many-body Wigner dynamics: Branching random walk and Particle annihilation_.
 
-Please [Link to another page](./another-page.html) to see my curriculum vitae.
+Please [click here](./CV_PKU_Yunfeng_Xiong.pdf) to see my curriculum vitae.
 
 # Header 1
 
