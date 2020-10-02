@@ -8,7 +8,7 @@ I am currently working at Peking Univeristy as Boya Postdoctoral Fellow. I got m
 
 Please [click here](./CV_PKU_Yunfeng_Xiong.pdf) to see my curriculum vitae.
 
-# Research interest
+## Research interest
 
 My major research interest is the mathematical theory of particle methods, as well as their applications in solving high-dimensional PDEs arsing from the quantum physics and finances.  
 
@@ -19,22 +19,33 @@ The concept of particle method is closely related to the Monte Carlo methods. Ho
 In my 
 
 
-## Particle generation: Connection between stochastic process and PDEs
+### Particle generation: Connection between stochastic process and PDEs
+
+
+![asm](./assets/img/asm.gif)
+
+
+![branching](./assets/img/branching.gif)
+
+### Particle annihilation: Probability theory and combinatorics 
+
+
+![wf_continuous](./assets/img/wignerfunction.pdf)
+
+
+![wf_discrete](./assets/img/wf_sample.pdf)
+
+
+![wf_ded](./assets/img/wf_ded.pdf)
 
 
 
 
-
-## Particle annihilation: Probability theory and combinatorics 
-
+### Deterministic solvers
 
 
 
-## Particle annihilation: Probability theory and combinatorics 
-
-
-
-# Ongoing project: Diffusive wave modeling 
+## Ongoing project: Diffusive wave modeling 
 
 
 
