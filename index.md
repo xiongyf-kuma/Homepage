@@ -75,6 +75,8 @@ I am going to inintialize a project on diffusive wave modeling with [Prof. Xu Gu
 
 The background is the wave attentuation phenomenon in earth science. The mathematical problems involve PDE analysis, numerical PDEs, numerical algebra, statistical learning, Bayesian interference and uncertainty qualification (and maybe more).    
 
+* * *
+
 ## Mottos
 
 - “The full meaning of life, the collective meaning of all human desires, is fundamentally a mystery beyond our grasp.” —— **Eugene Wigner**
