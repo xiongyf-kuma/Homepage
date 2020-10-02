@@ -16,20 +16,32 @@ The concept of particle method is closely related to the Monte Carlo methods. Ho
 
 ![Connection](./assets/img/ch1_connection.pdf)
 
+* * *
+
 ## Particle methods in quantum mechanics 
 
-My graduate research concentrates on the particle method of the Wigner equation, a phase-space formulation of quantum dynamics initialized by Eugene Wigner. The fundamental obstacle is the **negative sign** in the probailistic model, which might be disliked by mathematicians majored in probability theory, but seems fundamental for physicists as the **negative probability** in quantum world manifests the Heisenberg's uncertainty principle.  
+My graduate research concentrates on the particle method of the Wigner equation, a phase-space formulation of quantum dynamics initialized by Eugene Wigner. The fundamental obstacle is the **negative sign** in the probailistic model, which might be disliked by mathematicians majored in probability theory, but seems fundamental for physicists as the **negative probability** in quantum world intuitively manifests the Heisenberg's uncertainty principle.  
 
-After fighting with the notorious negative sign problem for five years, I have tried to understand its origin and made the first attempt to solve the Wigner equation on the 12-D phase space, with some developments in both particle generation and particle annihilation. 
+After fighting with the notorious negative sign problem for five years, I have tried to understand its origin and made the first attempt to solve the Wigner equation on the 12-D phase space, with both developments in particle generation and annihilation. Currently, I am trying to extend their basic idea to solve high-dimensional PDEs and to understand the interaction between multiple assets. 
 
+* * *
 
 ### Particle generation: Connection between stochastic process and PDEs
 
+Connection between stochastic processes and PDEs is an active topic in modern mathematics and provides powerful tools for both probability theory and analysis. The particle method borrows its essential idea but can be extended to a more general class of PDEs (beyond parabolic-type and elliptic-type) by introducing the negative particle sign.
+
+The following animation is the dynamics of an electron interacting with a Gaussian barrier under the Wigner representation.
 
 ![asm](./assets/img/asm.gif)
 
+Under the particle formalism, it seems likes the random reproduction and mitigation of two swarms.
 
 ![branching](./assets/img/branching.gif)
+
+An interesting observation is that by taking expectation, the behaviours of particles obey some rules driven by the deterministic equation. So our main goal is to understand the profound connection behind it.
+
+
+* * *
 
 ### Particle annihilation: Probability theory and combinatorics 
 
@@ -41,11 +53,11 @@ After fighting with the notorious negative sign problem for five years, I have t
 ![wf_ded](./assets/img/wf_ded.pdf)
 
 
-
+* * *
 
 ### Deterministic methods 
 
-
+* * *
 
 ## Ongoing project: Diffusive wave modeling 
 
