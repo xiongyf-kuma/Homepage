@@ -70,7 +70,7 @@ At present, I am working on a project to surmount the numerical challenges in 6-
 
 ## Ongoing project: Diffusive wave modeling 
 
-I am going to inintialize a project on diffusive wave modeling with [Prof. Xu Guo](https://www.tjsl.sdu.edu.cn/info/1331/8187.htm) at School of Civil Engineering, Shandong University. The goal of this project is to understand the mathematical theory of fractional wave equation in modeling the intermediate state of the heat diffusion and the wave propogation, to design effecient algorithms for multidimensional fractional wave equation, and to discuss related problems such as reverse-time mitigation, uncertainty qualification and parameter estimation. 
+I am going to inintialize a project on diffusive wave modeling with [Prof. Xu Guo](https://www.tjsl.sdu.edu.cn/info/1331/8187.htm) at School of Civil Engineering, Shandong University. The goal of this project is to understand the mathematical foundation of fractional wave equation in modeling the intermediate state of the heat diffusion and the wave propogation, to design effecient algorithms for multidimensional fractional wave equation, and to discuss related problems such as reverse-time mitigation, uncertainty qualification and parameter estimation. 
 
 
 The background is the wave attentuation phenomenon in earth science. The mathematical problems involve PDE analysis, numerical PDEs, numerical algebra, statistical learning, Bayesian interference and uncertainty qualification (and maybe more).    
