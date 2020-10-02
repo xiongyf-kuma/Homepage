@@ -8,7 +8,7 @@ I am currently working as the Boya Postdoctoral Fellow at School of Mathematical
 
 Please [click here](./CV_PKU_Yunfeng_Xiong.pdf) to see my curriculum vitae.
 
-# Research interest
+# Research interests
 
 My major research interest is the mathematical theory of particle methods, as well as their applications in solving high-dimensional PDEs arsing from the quantum physics and finances.  
 
@@ -24,7 +24,7 @@ My graduate research concentrates on the particle method of the Wigner equation,
 
 After fighting with the notorious negative sign problem for five years, I have tried to understand its origin and made the first attempt to solve the Wigner equation on the 12-D phase space, with both developments in particle generation and annihilation. But it still has a long way to go before touching the limit of the particle method. 
 
-Currently, I am trying to extend the basic idea of the proposed particle method to solve high-dimensional PDEs and to understand the complicated interaction between multiple assets. 
+Currently, I am trying to extend the basic idea of the proposed particle method to solve high-dimensional PDEs in mathematical finance and to understand the omplex interactions among multiple assets. 
 
 * * *
 
@@ -60,7 +60,7 @@ Our strategy is to combine the **sequential clustering** of points (_combinatori
 
 ### Deterministic parallel solvers for high-dimensional Wigner equation 
 
-A parallel line in my research is to design determistic solvers for the Wigner equation. The intentions are as twofold. The first is to provide a highly accurate solution to the Wigner equation. The second is to give a thorough benchmark on the particle method.
+A parallel line in my research is to design determistic solvers for the Wigner equation. The targets are as twofold. The first is to provide a highly accurate solution to the Wigner equation. The second is to give a thorough benchmark on the particle method.
 
 In 2016, we made the first attempt to solve the Wigner equation in 4-D phase space using the semi-Lagrangian method and spectral method. After that, my collabators, Dr. Zhenzhu Chen and Prof. Sihong Shao have succeeded in simulating the complicated structure of [double-well interference](https://doi.org/10.1016/j.jcp.2019.06.047).   
 
