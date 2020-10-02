@@ -47,17 +47,24 @@ Under the particle formalism, the dynamics seems likes the stochastic reproducti
 
 Intuitively, the contribution of particles carrying opposite sign can be canceled out. This observation is pivital in suppressing the stochastic variances in long-time simulations. Such is closely related to the density estimation in statistical learning, which intends to postulate the underlying continuous density from the discrete point distribution. 
 
-<p align="center">
 ![wf_continuous](./assets/img/wignerfunction.pdf)
-![wf_discrete](./assets/img/wf_sample.pdf)
-</p>
 
-Our strategy is to combine the sequential clustering of points and random matching within each group. The sequential clustering can be performed by binary splitting of the Eucledian space and controlling the number-theoretic discrepancies. This can automatically monitor the concentration and sparsity of point distributions, and may work in high dimensional problem (numerical examples are provided up to 1080 dimension).
+![wf_discrete](./assets/img/wf_sample.pdf)
+
+
+Our strategy is to combine the **sequential clustering** of points (_combinatorial technique_) and **random matching** within each group (_probabilistic technique_). The sequential clustering can be performed by binary splitting of the Eucledian space and controlling the number-theoretic discrepancies. This can automatically monitor the concentration and sparsity of point distributions, and may work in high dimensional problem (numerical examples are provided up to 1080 dimension).
 ![wf_ded](./assets/img/wf_ded.pdf)
+
 
 * * *
 
-### Deterministic methods 
+### Deterministic parallel solvers for high-dimensional Wigner equation 
+
+A parallel line in my research is to design determistic solvers for PDEs. The intentions are as twofold. The first is to provide a highly accurate solution to the Wigner equation. The second is to give a thorough benchmark on the particle method.
+
+In 2016, 
+
+
 
 * * *
 
